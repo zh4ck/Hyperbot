@@ -4,7 +4,7 @@ Special thanks: [Discord.js](https://discord.js.org/)
 
 ## What is Hyperbot?
 Hyperbot is a Discord Bot meant for Hypercrown Discord Server.
-You can use the code as an inspiration or for your Bot.
+You can use this Bot function for your Bot by changing the token.
 
 ## Getting Started
 ### Prerequisites
