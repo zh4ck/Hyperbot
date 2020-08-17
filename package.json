@@ -1,7 +1,7 @@
 {
   "name": "hyperbot",
   "version": "1.0.0",
-  "description": "Official Hyperbot, Beta Mode!",
+  "description": "Hyperbot Discord Bot, powered by JavaScript",
   "main": "beta.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
