@@ -16,7 +16,7 @@ You can use this Bot function for your Bot by changing the token.
 ### How to run:
 - Run Command-Prompt as Administrator
 - Change the directory to the Hyperbot folder. 
-- Type `node .` to run the Bot.
+- Type <kbd>node .</kbd> to run the Bot.
 
 ### Note:
 You can use debug version and beta version by typing "node debug.js" or "node beta.js"
