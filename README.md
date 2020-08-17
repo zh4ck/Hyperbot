@@ -1,5 +1,5 @@
 # Official Hyperbot Github. Created by Zhxck using JavaScript
-## Special thanks: Discord.js Community
+Special thanks: [Discord.js](https://discord.js.org/)
 
 What is Hyperbot?
 Hyperbot is a Discord Server meant for Hypercrown Discord Server, 
