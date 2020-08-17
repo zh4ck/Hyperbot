@@ -1,5 +1,5 @@
 ## Official Hyperbot Github 
-### Created by Zhxck using JavaScript
+Created by Zhxck using JavaScript
 Special thanks: [Discord.js](https://discord.js.org/)
 
 What is Hyperbot?
