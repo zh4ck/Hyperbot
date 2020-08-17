@@ -1,5 +1,5 @@
 require('events').EventEmitter.prototype._maxListeners = 100;
-// Unlock the Limits (BETA ONLY!)
+// Increase Listeners Limit
 
 const {Client, MessageEmbed, MessageAttachment } = require('discord.js',);
 
