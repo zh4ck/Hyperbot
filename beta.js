@@ -92,4 +92,4 @@ setTimeout(() => timestamps.delete(message.author.id), cooldownAmount);
 	}
 });
 
-client.login("NzIwMjUzMjM4Mzc2NjYxMDMy.Xv8aBw.zqvx_u0ugWkrviT_OzgycwgrI-k");
+client.login("Insert Token");
