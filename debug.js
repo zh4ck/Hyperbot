@@ -394,4 +394,4 @@ client.on("message", message => {
 
 // Ini hanya untuk dekorasi.
 
-client.login('NzIwMjUzMjM4Mzc2NjYxMDMy.XucCnA.r44ywmm21F7kGRu83OPFOJ16G4Q');
+client.login('insert token');
